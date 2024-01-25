@@ -32,10 +32,8 @@ st.title('Scraper de Trabajos. 📌')
 st.text(bienvenida)
 
 icon("search")
-st.text('Término de búsqueda:')
-selected = st.text_input("",'Escribe tu búsqueda acá. Ej: "Practicante analítica.".')
-st.text('Término de filtrado')
-filter = st.text_input("",'Escriba el término por el cual desea filtrar. Ej: "python". Después presiona "Ok"')
+selected = st.text_input("Término de búsqueda:",'Escribe tu búsqueda acá. Ej: "Practicante analítica.".')
+filter = st.text_input("Término de filtrado:",'Escriba el término por el cual desea filtrar. Ej: "python". Después presiona "Ok"')
 button_clicked = st.button("Ok")
 
 
