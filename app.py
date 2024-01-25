@@ -17,7 +17,7 @@ remote_css('https://fonts.googleapis.com/icon?family=Material+Icons')
 
 
 bienvenida = """
-Bienvenido a la APP "Scraper de trabajos." . Esta APP es un pequeño ejercicio que 
+Bienvenido a la APP "Scraper de trabajos.". Esta APP es un pequeño ejercicio que 
 implementa un scraper para realizar cualquier busqueda deseada en el portal de 
 empleo "El Empleo", además de eso logra filtrar los resultados por algún término 
 en específico. La idea nació después de que una persona especial para mí se enfrentara
