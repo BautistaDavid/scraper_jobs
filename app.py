@@ -18,12 +18,12 @@ remote_css('https://fonts.googleapis.com/icon?family=Material+Icons')
 
 bienvenida = """
 Bienvenido a la APP "Scraper de trabajos." . Esta APP es un pequeño ejercicio que 
-implementa un scraper para realizar una búsqueda de cualquier término deseado en el
-portal de empleo "El Empleo", además de eso logra filtrar los resultados por algún 
-término en específico. La idea nació después de que una persona especial para mí 
-se enfrentara al proceso de búsqueda de prácticas laborales, proceso el cual, por 
-experiencia propia sé que puede llegar a ser frustrante, de modo que la finalidad 
-de la herramienta es distraerse, explorando de otra manera información de un portal
+implementa un scraper para realizar cualquier busqueda deseada en el portal de 
+empleo "El Empleo", además de eso logra filtrar los resultados por algún término 
+en específico. La idea nació después de que una persona especial para mí se enfrentara
+al proceso de búsqueda de prácticas laborales, proceso el cual, por experiencia 
+propia sé que puede llegar a ser frustrante, de modo que la finalidad de la 
+herramienta es distraerse, explorando de otra manera información de un portal
 de empleo. 
 """
 
